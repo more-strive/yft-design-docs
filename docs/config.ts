@@ -12,6 +12,7 @@ import { head, navbarEn, navbarZh, sidebarEn, sidebarZh,} from './configs/index'
 
 const __dirname = getDirname(import.meta.url)
 const isProd = process.env.NODE_ENV === 'production'
+console.log('process.env.DOCS_BUNDLER:', process.env.DOCS_BUNDLER)
 
 export default defineUserConfig({
   // set site base to default value
@@ -35,8 +36,7 @@ export default defineUserConfig({
   },
 
   // specify bundler via environment variable
-  bundler:
-    process.env.DOCS_BUNDLER === 'webpack' ? webpackBundler() : viteBundler(),
+  bundler: process.env.DOCS_BUNDLER === 'webpack' ? webpackBundler() : viteBundler(),
 
   // configure default theme
   theme: defaultTheme({
@@ -101,6 +101,10 @@ export default defineUserConfig({
       // use shiki plugin in production mode instead
       prismjs: !isProd,
     },
+
+    dev: {
+
+    }
   }),
 
   // configure markdown
