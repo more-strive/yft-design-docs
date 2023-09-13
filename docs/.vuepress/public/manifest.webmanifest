@@ -1,7 +1,7 @@
 {
-  "name": "VuePress",
-  "short_name": "VuePress",
-  "description": "Vue-powered Static Site Generator",
+  "name": "yft-design",
+  "short_name": "yft-design",
+  "description": "Canvas based business card and poster editor",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#fff",

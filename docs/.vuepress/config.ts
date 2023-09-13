@@ -22,14 +22,14 @@ export default defineUserConfig({
   // site-level locales config
   locales: {
     '/': {
-      lang: 'en-US',
-      title: 'yft-design',
-      description: 'Vue-powered Static Site Generator',
-    },
-    '/zh/': {
       lang: 'zh-CN',
       title: 'yft-design',
-      description: 'Vue 驱动的静态网站生成器',
+      description: '基于Canvas的名片，海报编辑器',
+    },
+    '/en/': {
+      lang: 'en-US',
+      title: 'yft-design',
+      description: 'Canvas based business card and poster editor',
     },
   },
 

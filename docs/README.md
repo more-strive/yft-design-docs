@@ -3,14 +3,14 @@ home: true
 title: Home
 heroImage: /images/yft-design-635x633.png
 actions:
-  - text: Get Started
+  - text: 快速开始
     link: /guide/getting-started.html
     type: primary
   - text: Introduction
     link: /guide/
     type: secondary
 features:
-  - title: Simplicity First
+  - title: 简洁至上
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
   - title: Vue-Powered
     details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
@@ -22,7 +22,7 @@ features:
     details: Flexible plugin API, allowing plugins to provide lots of plug-and-play features for your site.
   - title: Bundlers
     details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: MIT Licensed | Copyright © 2023-present Nevermore
 ---
 
 ### As Easy as 1, 2, 3
