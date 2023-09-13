@@ -39,7 +39,7 @@ export default defineUserConfig({
   // configure default theme
   theme: defaultTheme({
     logo: '/images/yft-design.png',
-    repo: 'vuepress/vuepress-next',
+    repo: 'dromara/yft-design',
     docsDir: 'docs',
 
     // theme-level locales config
