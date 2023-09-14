@@ -1,14 +1,14 @@
 ---
 home: true
 icon: home
-title: Project home
-heroImage: /logo.svg
+title: yft-design
+heroImage: /logo.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: Project name
-tagline: You can place the description of the project here.
+heroText: yft-design
+tagline: Canvas based business card and poster editor.
 actions:
   - text: How to Use 💡
     link: ./demo/
@@ -23,8 +23,9 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: Run <code>pnpm create vuepress-theme-hope hope-project</code> to create a new project with this theme.
-      - title: Run <code>pnpm create vuepress-theme-hope add .</code> in your project root to create a new project with this theme.
+      - title: Run <code>git clone https://github.com/dromara/yft-design.git</code> Clone project.
+      - title: Run <code>cd yft-design && npm install</code> Installation dependencies.
+      - title: Run <code>npm run dev</code> Local operation.
 
   - header: Add things you want in markdown
     description: We extended the standard commonMark specification and added tons of new features for you.
