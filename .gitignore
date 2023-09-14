@@ -1,9 +1,7 @@
-node_modules.DS_Store
+.DS_Store
 node_modules
 dist
 
-.cache
-.temp
 # local env files
 .env.local
 .env.*.local
@@ -24,4 +22,5 @@ pnpm-debug.log*
 *.sw?
 dist/*
 
-package-lock.json
+.cache
+.temp
