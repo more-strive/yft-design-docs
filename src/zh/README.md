@@ -36,107 +36,107 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 链接检查
+      - title: 纯色背景
         icon: clipboard-check
         details: 检查 Markdown 链接
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
 
-      - title: 自定义容器支持
+      - title: 渐变背景
         icon: box-archive
         details: 用样式装饰 Markdown 内容
         link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
 
-      - title: 选项卡
+      - title: 网格背景
         icon: table-columns
         details: 使用选项卡对相似内容进行分组
         link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
 
-      - title: 代码组
+      - title: 条纹背景
         icon: code
         details: 使用选项卡对相似代码进行分组
         link: https://theme-hope.vuejs.press/zh/guide/markdown/code-tabs.html
 
-      - title: 自定义对齐支持
+      - title: 图片背景
         icon: align-center
         details: 让你在 Markdown 中对段落进行对齐
         link: https://theme-hope.vuejs.press/zh/guide/markdown/align.html
 
-      - title: 自定义属性支持
+      - title: 文本编辑
         icon: code
         details: 让你为 Markdown 元素添加属性
         link: https://theme-hope.vuejs.press/zh/guide/markdown/attrs.html
 
-      - title: 上下角标支持
+      - title: 图片滤镜
         icon: superscript
         details: 你的 Markdown 现在将支持上下角标
         link: https://theme-hope.vuejs.press/zh/guide/markdown/sup-sub.html
 
-      - title: 脚注
+      - title: 图片裁切
         icon: quote-left
         details: 你的 Markdown 现在将支持脚注
         link: https://theme-hope.vuejs.press/zh/guide/markdown/footnote.html
 
-      - title: 标记支持
+      - title: 图片旋转
         icon: highlighter
         details: 让你在 Markdown 中对词句进行标记
         link: https://theme-hope.vuejs.press/zh/guide/markdown/mark.html
 
-      - title: 任务列表
+      - title: 文本编辑
         icon: square-check
         details: 在 Markdown 中使用任务列表
         link: https://theme-hope.vuejs.press/zh/guide/markdown/tasklist.html
 
-      - title: 图片语法
+      - title: 文本填充
         icon: image
         details: 使用改进的语法指定图片大小与颜色模式
         link: https://theme-hope.vuejs.press/zh/guide/markdown/image.html
 
-      - title: 卡片支持
+      - title: 元素编辑
         icon: square
         details: 在 Markdown 中展示卡片
         link: https://theme-hope.vuejs.press/zh/guide/markdown/card.html
 
-      - title: 图表支持
+      - title: 二维码编辑
         icon: chart-simple
         details: 在 Markdown 中展示图表
         link: https://theme-hope.vuejs.press/zh/guide/markdown/chart.html
 
-      - title: 流程图支持
+      - title: 条形码编辑
         icon: route
         details: 可以在 Markdown 中直接写出流程图
         link: https://theme-hope.vuejs.press/zh/guide/markdown/flowchart.html
 
-      - title: Mermaid 支持
+      - title: 图层编辑
         icon: chart-pie
         details: 可以在 Markdown 中添加 Mermaid 图例
         link: https://theme-hope.vuejs.press/zh/guide/markdown/mermaid.html
 
-      - title: Tex 支持
+      - title: 画布尺寸
         icon: square-root-variable
         details: Markdown 现在也可以支持 Tex 语法以显示公式
         link: https://theme-hope.vuejs.press/zh/guide/markdown/tex.html
 
-      - title: 导入文件支持
+      - title: 印刷规范
         icon: fab fa-markdown
         details: 将你的文档分段，并在 Markdown 中导入
         link: https://theme-hope.vuejs.press/zh/guide/markdown/include.html
 
-      - title: 交互演示支持
+      - title: 画布缩放
         icon: code
         details: 你可以在 Markdown 中添加交互演示
         link: https://theme-hope.vuejs.press/zh/guide/markdown/playground.html
 
-      - title: Vue 交互演示支持
+      - title: 画布拖拽
         icon: fab fa-vuejs
         details: 在交互演示中展示 Vue 组件
         link: https://theme-hope.vuejs.press/zh/guide/markdown/vue-playground.html
 
-      - title: 代码案例支持
+      - title: 导入导出支持
         icon: laptop-code
         details: 你可以很方便的插入代码案例
         link: https://theme-hope.vuejs.press/zh/guide/markdown/demo/
 
-      - title: 幻灯片支持
+      - title: 缩略图支持
         icon: person-chalkboard
         details: 你可以直接在 Markdown 中插入幻灯片
         link: https://theme-hope.vuejs.press/zh/guide/markdown/presentation/
