@@ -6,9 +6,9 @@ icon: file
 # This control sidebar order
 order: 1
 # Set author
-author: Ms.Hope
+author: Nevermore
 # Set writing time
-date: 2020-01-01
+date: 2023-09-15
 # A page can have multiple categories
 category:
   - Guide
@@ -34,7 +34,7 @@ Content before `more` comment is regarded as page excerpt.
 
 You can set page information in Markdown's Frontmatter.
 
-- The author is Ms.Hope.
+- The author is Nevermore.
 - The writing date is January 1, 2020
 - Category is "Guide"
 - Tags are "Page Config" and "Guide"
