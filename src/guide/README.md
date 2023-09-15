@@ -7,6 +7,11 @@ icon: lightbulb
 
 ### Bar
 
+- [background](bar/baz.md)
+- ...
+
+### Bar
+
 - [baz](bar/baz.md)
 - ...
 

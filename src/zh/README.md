@@ -39,27 +39,27 @@ highlights:
       - title: 纯色背景
         icon: clipboard-check
         details: 检查 Markdown 链接
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        link: /zh/guide/background/color.md
 
       - title: 渐变背景
         icon: box-archive
         details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
+        link: /zh/guide/background/gradient.md
 
       - title: 网格背景
         icon: table-columns
         details: 使用选项卡对相似内容进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
+        link: /zh/guide/background/grid.md
 
       - title: 条纹背景
         icon: code
         details: 使用选项卡对相似代码进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code-tabs.html
+        link: /zh/guide/background/shading.md
 
       - title: 图片背景
         icon: align-center
         details: 让你在 Markdown 中对段落进行对齐
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/align.html
+        link: /zh/guide/background/image.md
 
       - title: 文本编辑
         icon: code
