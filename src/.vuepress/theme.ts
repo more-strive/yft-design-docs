@@ -45,7 +45,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "",
 
       displayFooter: true,
 
@@ -67,10 +67,10 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "dromara/yft-design",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "more-strive/yft-design-docs",
+      repoId: "R_kgDOKSD1Rg",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOKSD1Rs4CZVgY",
     },
 
     // All features are enabled for demo, only preserve features you need here

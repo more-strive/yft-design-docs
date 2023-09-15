@@ -22,9 +22,4 @@ export const zhNavbar = navbar([
       },
     ],
   },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
 ]);

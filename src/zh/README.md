@@ -10,7 +10,7 @@ bgImageStyle:
 heroText: yft-design
 tagline: 基于Canvas的名片，海报编辑器。
 actions:
-  - text: 使用指南 💡
+  - text: 功能 💡
     link: ./main/
     type: primary
 
@@ -27,7 +27,7 @@ highlights:
       - title: Run <code>cd yft-design && npm install</code> 安装依赖。
       - title: Run <code>npm run dev</code> 本地运行。
 
-  - header: 在 编辑器 中添加，编辑你想要的内容
+  - header: 在画布中添加元素，编辑你想要的内容
     description: 我们扩展了标准的 Fabric.js 规范，添加了成吨功能。
     image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
