@@ -14,8 +14,9 @@ actions:
     link: ./main/
     type: primary
 
-  - text: 文档
+  - text: 指南
     link: ./guide/
+    type: primary
 
 highlights:
   - header: 易于安装

@@ -1,16 +1,19 @@
 ---
 title: 指南
-icon: lightbulb
+index: false
+icon: laptop-code
+category:
+  - 使用指南
 ---
 
-## 功能亮点
+## 目录
 
-### Bar
+- [画布展示](canvas.md)
 
-- [baz](bar/baz.md)
-- ...
+- [菜单展示](menus.md)
 
-### Foo
+- [缩略展示](thumbs.md)
 
-- [ray](foo/ray.md)
-- ...
+- [工具展示](tools.md)
+
+- [编辑展示](editor.md)

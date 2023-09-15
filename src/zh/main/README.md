@@ -1,5 +1,5 @@
 ---
-title: 主要功能
+title: 功能
 index: false
 icon: laptop-code
 category:
