@@ -7,14 +7,14 @@ export default hopeTheme({
 
   author: {
     name: "Nevermore",
-    url: "https://mister-hope.com",
+    url: "https://yft.design",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "dromara/yft-design",
 
   docsDir: "src",
 
@@ -67,7 +67,7 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
+      repo: "dromara/yft-design",
       repoId: "R_kgDOG_Pt2A",
       category: "Announcements",
       categoryId: "DIC_kwDOG_Pt2M4COD69",
