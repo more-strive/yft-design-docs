@@ -11,7 +11,7 @@ heroText: yft-design
 tagline: Canvas based business card and poster editor.
 actions:
   - text: How to Use 💡
-    link: ./demo/
+    link: ./main/
     type: primary
 
   - text: Docs

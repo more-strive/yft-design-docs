@@ -6,8 +6,8 @@ export const enSidebar = sidebar({
     {
       text: "Demo",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "main/",
+      link: "main/",
       children: "structure",
     },
     {

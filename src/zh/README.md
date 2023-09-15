@@ -11,7 +11,7 @@ heroText: yft-design
 tagline: 基于Canvas的名片，海报编辑器。
 actions:
   - text: 使用指南 💡
-    link: ./demo/
+    link: ./main/
     type: primary
 
   - text: 文档
