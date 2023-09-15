@@ -14,8 +14,9 @@ export const zhSidebar = sidebar({
       text: "指南",
       icon: "book",
       prefix: "guide/",
+      link: "guide/",
       children: "structure",
     },
-    "slides",
+    // "slides",
   ],
 });

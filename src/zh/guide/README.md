@@ -8,12 +8,14 @@ category:
 
 ## 目录
 
-- [画布展示](canvas.md)
+- [背景颜色](background/color.md)
 
-- [菜单展示](menus.md)
+- [文本编辑](text/color.md)
 
-- [缩略展示](thumbs.md)
+- [元素编辑](background/color.md)
 
-- [工具展示](tools.md)
+- [图片编辑](background/color.md)
 
-- [编辑展示](editor.md)
+- [二维码编辑](background/color.md)
+
+- [条形码编辑](background/color.md)
