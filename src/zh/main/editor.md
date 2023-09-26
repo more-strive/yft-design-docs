@@ -4,7 +4,7 @@ title: 编辑功能
 # 这是页面的图标
 icon: file
 # 这是侧边栏的顺序
-order: 1
+order: 2
 # 设置作者
 author: Nevermore
 # 设置写作时间
@@ -26,11 +26,9 @@ footer: ''
 copyright: GPL-3.0 | Copyright © 2023 Nevermore
 ---
 
-`more` 注释之前的内容被视为文章摘要。
-
 <!-- more -->
 
-## 页面信息
+## 
 
 你可以在 Markdown 的 Frontmatter 中设置页面信息。
 
