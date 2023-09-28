@@ -4,7 +4,7 @@ title: 菜单功能
 # 这是页面的图标
 icon: file
 # 这是侧边栏的顺序
-order: 3
+order: 2
 # 设置作者
 author: Nevermore
 # 设置写作时间

@@ -4,7 +4,7 @@ title: 编辑功能
 # 这是页面的图标
 icon: file
 # 这是侧边栏的顺序
-order: 2
+order: 5
 # 设置作者
 author: Nevermore
 # 设置写作时间
@@ -26,45 +26,29 @@ footer: ''
 copyright: GPL-3.0 | Copyright © 2023 Nevermore
 ---
 
-<!-- more -->
+## 编辑信息
 
-## 
-
-你可以在 Markdown 的 Frontmatter 中设置页面信息。
-
-- 作者设置为 Nevermore。
-- 写作日期为 2020 年 1 月 1 日
-- 分类为 “使用指南”
-- 标签为 “页面配置” 和 “使用指南”
+![编辑演示](/assets/gif/editor.gif)
 
 ## 页面内容
 
-你可以自由在这里书写你的 Markdown。
+可以添加字体，支持font-family，font-size，font-style。
+- 支持填充颜色RGB转CMYK色值，背景颜色
+- 支持加粗，倾斜，删除线，下划线
+- 支持横向，竖向，减小、增大缩进
+- 支持左对齐，居中，右对齐
+- 支持转曲（LOGO制作，成品印刷）
+- 支持文本字距以及段落行距
+- 支持文本描边，文本阴影等艺术设置
 
 ::: tip
 
-- 你可以将图片和 Markdown 文件放置在一起，但是你需要使用**相对链接**`./` 进行引用。
+- 可以加载 `系统字体`，需要在设置浏览器加载系统字体权限。
 
-- 对于 `.vuepress/public` 文件夹的图片，请使用绝对链接 `/` 进行引用。
+- 当有弹窗提示时，请点击 确认 按钮。
+
+- 请确保 `font` 权限如下所示。
 
 :::
 
-主题包含了一个自定义徽章可以使用:
-
-> 文字结尾应该有深蓝色的 徽章文字 徽章。 <Badge text="徽章文字" color="#242378" />
-
-## 页面结构
-
-此页面应当包含:
-
-- [路径导航](https://theme-hope.vuejs.press/zh/guide/layout/breadcrumb.html)
-- [标题和页面信息](https://theme-hope.vuejs.press/zh/guide/feature/page-info.html)
-- [TOC (文章标题列表)](https://theme-hope.vuejs.press/zh/guide/layout/page.html#标题列表)
-- [贡献者、更新时间等页面元信息](https://theme-hope.vuejs.press/guide/feature/meta.html)
-- [评论](https://theme-hope.vuejs.press/zh/guide/feature/comment.html)
-- [导航栏](https://theme-hope.vuejs.press/zh/guide/layout/navbar.html)
-- [侧边栏](https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html)
-- [页脚](https://theme-hope.vuejs.press/zh/guide/layout/footer.html)
-- 返回顶部按钮
-
-你可以通过主题选项和页面 Frontmatter 自定义它们。
+![系统字体](/assets/image/editor/font-tip.png)

@@ -34,42 +34,27 @@ copyright: GPL-3.0 | Copyright © 2023 Nevermore
 
 鼠标左键点击选择元素之后，画布中会显示元素宽高。
 
-- 支持框选元素。
+- 支持单选，框选元素。
 - 元素有具体标尺坐标显示。
 - 右边栏显示元素可编辑信息。
 
 ## 操作内容
 
-- 鼠标滚轮，画布可以上下滚动。
-- Shift + 鼠标滚轮，画布可以左右滚动。
-- Ctrl  + 鼠标滚动，画布缩放
+- 鼠标右键快捷键，图层上移下移，锁定，水平、垂直居中
+- 鼠标滚轮，画布上下滚动。
+- Shift + 鼠标滚轮，画布左右滚动
+- Ctrl  + 鼠标滚轮，画布尺寸缩放
+- Ctrl + c => 复制
+- Ctrl + x => 剪切
+- Ctrl + v => 粘贴（跟随鼠标位置粘贴）
+- Ctrl + z => 回滚
 
 ::: tip
 
 - 可以点击画布底部的![](/assets/image/click-tap.svg)按钮使画布处于拖拽状态。
 
-- 可以点击画布底部的![](/assets/image/cutting-one.svg) 增加裁切辅助线。
+- 可以点击画布底部的![](/assets/image/cutting-one.svg)增加裁切辅助线。
 
-- 可以点击画布底部的![](/assets/image/shield.svg) 增加安全辅助线。
+- 可以点击画布底部的![](/assets/image/shield.svg)增加安全辅助线。
 
 :::
-
-主题包含了一个自定义徽章可以使用:
-
-> 文字结尾应该有深蓝色的 徽章文字 徽章。 <Badge text="徽章文字" color="#242378" />
-
-## 页面结构
-
-此页面应当包含:
-
-- [路径导航](https://theme-hope.vuejs.press/zh/guide/layout/breadcrumb.html)
-- [标题和页面信息](https://theme-hope.vuejs.press/zh/guide/feature/page-info.html)
-- [TOC (文章标题列表)](https://theme-hope.vuejs.press/zh/guide/layout/page.html#标题列表)
-- [贡献者、更新时间等页面元信息](https://theme-hope.vuejs.press/guide/feature/meta.html)
-- [评论](https://theme-hope.vuejs.press/zh/guide/feature/comment.html)
-- [导航栏](https://theme-hope.vuejs.press/zh/guide/layout/navbar.html)
-- [侧边栏](https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html)
-- [页脚](https://theme-hope.vuejs.press/zh/guide/layout/footer.html)
-- 返回顶部按钮
-
-你可以通过主题选项和页面 Frontmatter 自定义它们。
