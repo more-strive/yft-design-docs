@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: yft-design
-heroImage: /logo.svg
+heroImage: /logo.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
@@ -65,82 +65,82 @@ highlights:
       - title: 文本编辑
         icon: code
         details: 让你为 Markdown 元素添加属性
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/attrs.html
+        link: /zh/guide/background/color.md
 
       - title: 图片滤镜
         icon: superscript
         details: 你的 Markdown 现在将支持上下角标
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/sup-sub.html
+        link: /zh/guide/background/color.md
 
       - title: 图片裁切
         icon: quote-left
         details: 你的 Markdown 现在将支持脚注
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/footnote.html
+        link: /zh/guide/background/color.md
 
       - title: 图片旋转
         icon: highlighter
         details: 让你在 Markdown 中对词句进行标记
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/mark.html
+        link: /zh/guide/background/color.md
 
       - title: 文本编辑
         icon: square-check
         details: 在 Markdown 中使用任务列表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tasklist.html
+        link: /zh/guide/background/color.md
 
       - title: 文本填充
         icon: image
         details: 使用改进的语法指定图片大小与颜色模式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/image.html
+        link: /zh/guide/background/color.md
 
       - title: 元素编辑
         icon: square
         details: 在 Markdown 中展示卡片
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/card.html
+        link: /zh/guide/background/color.md
 
       - title: 二维码编辑
         icon: chart-simple
         details: 在 Markdown 中展示图表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart.html
+        link: /zh/guide/background/color.md
 
       - title: 条形码编辑
         icon: route
         details: 可以在 Markdown 中直接写出流程图
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/flowchart.html
+        link: /zh/guide/background/color.md
 
       - title: 图层编辑
         icon: chart-pie
         details: 可以在 Markdown 中添加 Mermaid 图例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/mermaid.html
+        link: /zh/guide/background/color.mdl
 
       - title: 画布尺寸
         icon: square-root-variable
         details: Markdown 现在也可以支持 Tex 语法以显示公式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tex.html
+        link: /zh/guide/background/color.md
 
       - title: 印刷规范
         icon: fab fa-markdown
         details: 将你的文档分段，并在 Markdown 中导入
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/include.html
+        link: /zh/guide/background/color.md
 
       - title: 画布缩放
         icon: code
         details: 你可以在 Markdown 中添加交互演示
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/playground.html
+        link: /zh/guide/background/color.md
 
       - title: 画布拖拽
         icon: fab fa-vuejs
         details: 在交互演示中展示 Vue 组件
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/vue-playground.html
+        link: /zh/guide/background/color.md
 
-      - title: 导入导出支持
+      - title: 导入导出
         icon: laptop-code
         details: 你可以很方便的插入代码案例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/demo/
+        link: /zh/guide/background/color.md
 
       - title: 缩略图支持
         icon: person-chalkboard
         details: 你可以直接在 Markdown 中插入幻灯片
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/presentation/
+        link: /zh/guide/background/color.md
 
   - header: 布局
     description: 一个带有完整无障碍支持的响应式布局。

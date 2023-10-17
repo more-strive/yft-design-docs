@@ -30,6 +30,9 @@ copyright: GPL-3.0 | Copyright © 2023 Nevermore
 
 ![编辑演示](/assets/gif/editor.gif)
 
+## 图片裁切
+![裁切演示](/assets/gif/crop.gif)
+
 ## 页面内容
 
 可以添加字体，支持font-family，font-size，font-style。
